@@ -1,0 +1,8 @@
+Nome: Joao
+GRR: 2222
+Curso: Curso de Ciência da Computação - Bacharelado
+É formando? Sim
+Disciplinas não cursadas:  CI210 CI237 CI212
+Quantidade de disciplinas obrigatorias que ainda precisa cursar: 17
+Quantidade de disciplinas optativas que ainda precisa cursar: 6
+Disciplinas solicitadas além da barreira / requisito: CI256, CI255
